@@ -3,6 +3,7 @@
 # Software installation
 
 * [Ninite](https://ninite.com/) (Software installer and updater)
+* [PatchMyPC](https://patchmypc.com/home-updater) (Software installer and updater)
  
 # Files and Explorers 
 
